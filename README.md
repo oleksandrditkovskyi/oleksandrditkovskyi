@@ -1,4 +1,4 @@
-## Oleksandr Ditkovskyi – React Native Developer 🚀
+## Oleksandr Ditkovskyi – React Native Developer
 
 Passionate about building smooth and performant mobile applications.  
 Open to new opportunities in React Native development.  
