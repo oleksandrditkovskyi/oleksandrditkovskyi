@@ -1,14 +1,7 @@
-Hi 👋 My name is Oleksandr
+Hi 👋 My name is Oleksandr | React Native Developer
 ==========================
 
-React Native Developer
-----------------------
-
-Passionate about building smooth and performant mobile applications. Open to new opportunities in React Native development.
-
-* 🌍  I'm based in Ukraine
-* 📄 Know about my experiences [CV](https://cv.djinni.co/ef/079871166dc4e83239b03dd56929f0/React_Native_Oleksandr_Ditkovskyi.pdf)
-* ✉️  You can contact me at [o.ditkovskyi@gmail.com](mailto:o.ditkovskyi@gmail.com)
+Passionate about building smooth and performant mobile applications.
 
 ### Skills
 
